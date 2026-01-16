@@ -197,13 +197,6 @@ git push -u origin main
 ✅ Material-UI components
 ✅ Production-ready deployment
 
-## 📞 Support
 
-For questions or issues:
-- Check the Amadeus [documentation](https://developers.amadeus.com/self-service)
-- Review Next.js [docs](https://nextjs.org/docs)
-- Material-UI [documentation](https://mui.com/)
-
----
 
 Built using Next.js, TypeScript, and Material-UI# flight-search-engine
